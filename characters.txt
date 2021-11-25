@@ -1,0 +1,4 @@
+characters =  
+dino
+om 
+chaitanya
